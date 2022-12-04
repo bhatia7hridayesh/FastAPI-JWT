@@ -8,7 +8,7 @@ Production based project for JWT implementation in FastAPI for your authenticati
 5. open .env file and change the SECRET KEYs.
 6. run command - uvicorn app.app:app --reload
 
-create you project in api or api_v1 directory as per yout requirements.
+create you project in api or api_v1 directory as per your requirements.
 
 
 
