@@ -1,5 +1,5 @@
 # FastAPI-JWT
-Production based project for JWT implementation in FastAPI for your authentication projects.
+Production based project for JWT implementation in FastAPI for your authentication projects with MongoDB as database.
 
 1. git clone the repo 
 2. create virtual env
